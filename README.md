@@ -10,7 +10,7 @@ A package to train and evaluate an agent in order to reach a target defined in a
 
 **- OpenCV**
 
-*VERSION: 3.4.0*
+*VERSION: at least 3.4.0*
 
 
 **- Tensorflow**

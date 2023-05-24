@@ -9,7 +9,7 @@ Based on:
 from inc import *
 
 run_time=round(time.time())
-LOAD = True ## True: no train and use previous pretrained model|| False: Train the model
+LOAD = False ## True: no train and use previous pretrained model|| False: Train the model
 EP_MAX = 10000
 EP_LEN = 800
 GAMMA = 0.9
